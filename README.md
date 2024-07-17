@@ -1,16 +1,26 @@
-## Hi there 👋
+## Привет! 👋
+Меня зовут Алексей, я веб-разработчик.
 
-<!--
-**AlexeyKrutyakov/alexeykrutyakov** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Я постоянно развиваюсь, изучаю современные технологии, занимаюсь спортом.\
+Открыт к общению и обмену опытом.\
+Сейчас активно ищу работу.
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+#### Вот мой стек:
+
+![Stack](https://skillicons.dev/icons?i=git,github,html,css,js,ts,react,nodejs,nest,postgres,mongodb,docker)
+
+---
+
+Мои контакты:
+
+[![ico-mail]][link-mail]
+
+[![Chat on Telegram][ico-telegram]][link-telegram]
+
+[ico-mail]: https://img.shields.io/badge/mail-alexey.krutyakov%40gmail.com-CA5E0?color=269D1F&logo=gmail
+[ico-telegram]: https://img.shields.io/badge/@alexeykrutyakov-2CA5E0.svg?style=flat-square&logo=telegram&label=Telegram
+
+[link-mail]: mailto:alexey.krutyakov@gmail.com
+[link-telegram]: https://t.me/alexeykrutyakov
