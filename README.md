@@ -9,7 +9,7 @@
 
 #### Вот мой стек:
 
-![Stack](https://skillicons.dev/icons?i=git,github,html,css,js,ts,react,nodejs,nest,postgres,mongodb,docker)
+![Stack](https://skillicons.dev/icons?i=git,github,html,css,js,ts,react,redux,nodejs,nest,postgres,mongodb,docker)
 
 ---
 
