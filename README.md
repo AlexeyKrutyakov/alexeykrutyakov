@@ -61,7 +61,7 @@
 [icon-telegram]: https://img.shields.io/badge/@alexeykrutyakov-2CA5E0.svg?style=flat-square&logo=telegram&label=Telegram
 
 [link-figma]: https://www.figma.com/
-[link-html]: [https://google.com](https://html.spec.whatwg.org/multipage/)
+[link-html]: https://html.spec.whatwg.org/multipage/
 [link-css]: https://www.w3.org/Style/CSS/
 [link-git]: https://git-scm.com/
 [link-js]: https://ecma-international.org/publications-and-standards/standards/ecma-262/
