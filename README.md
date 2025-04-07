@@ -11,14 +11,17 @@
 [![icon-figma]][link-figma]
 [![icon-html]][link-html]
 [![icon-css]][link-css]
-[![icon-git]][link-git]
+[![icon-tailwind]][link-tailwind]
 [![icon-js]][link-js]
 [![icon-ts]][link-ts]
 [![icon-react]][link-react]
 [![icon-redux]][link-redux]
+[![icon-tanstack]][link-tanstack]
+[![icon-git]][link-git]
 [![icon-npm]][link-npm]
 [![icon-yarn]][link-yarn]
 [![icon-nodejs]][link-nodejs]
+[![icon-nextjs]][link-nextjs]
 [![icon-nestjs]][link-nestjs]
 [![icon-postgresql]][link-postgresql]
 [![icon-mongodb]][link-mongodb]
@@ -47,7 +50,8 @@
 [icon-redux]: redux.svg
 [icon-npm]: npm.svg
 [icon-yarn]: yarn.svg
-[icon-nodejs]: nodedotjs.svg
+[icon-nodejs]: nodejs.svg
+[icon-nextjs]: nextjs.svg
 [icon-nestjs]: nestjs.svg
 [icon-postgresql]: postgresql.svg
 [icon-mongodb]: mongodb.svg
@@ -56,6 +60,8 @@
 [icon-nginx]: nginx.svg
 [icon-docker]: docker.svg
 [icon-yandexcloud]: yandexcloud.svg
+[icon-tailwind]: tailwind.svg
+[icon-tanstack]: tanstack.svg
 
 [icon-mail]: https://img.shields.io/badge/mail-alexey.krutyakov%40gmail.com-CA5E0?color=269D1F&logo=gmail
 [icon-telegram]: https://img.shields.io/badge/@alexeykrutyakov-2CA5E0.svg?style=flat-square&logo=telegram&label=Telegram
@@ -71,6 +77,7 @@
 [link-npm]: https://www.npmjs.com/
 [link-yarn]: https://yarnpkg.com/
 [link-nodejs]: https://nodejs.org/en
+[link-nextjs]: https://nextjs.org/
 [link-nestjs]: https://nestjs.com/
 [link-postgresql]: https://www.postgresql.org/
 [link-mongodb]: https://www.mongodb.com/
@@ -79,6 +86,8 @@
 [link-nginx]: https://nginx.org/
 [link-docker]: https://www.docker.com/
 [link-yandexcloud]: https://yandex.cloud/en
+[link-tailwind]: https://v3.tailwindcss.com/
+[link-tanstack]: https://tanstack.com/
 
 [link-mail]: mailto:alexey.krutyakov@gmail.com
 [link-telegram]: https://t.me/alexeykrutyakov
