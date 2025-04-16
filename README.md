@@ -39,6 +39,11 @@
 
 [![Chat on Telegram][icon-telegram]][link-telegram]
 
+---
+
+![GitHub stats](https://github-readme-stats.vercel.app/api?username=alexeykrutyakov&show_icons=true&theme=dark&hide_rank=true&custom_title=Stats)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=alexeykrutyakov&layout=compact&theme=dark)
+
 [icon-figma]: figma.svg
 [icon-html]: html5.svg
 [icon-css]: css3.svg
